@@ -39,8 +39,8 @@ set t_vb=
 set clipboard=unnamedplus
 
 " Configurações de cor
-set background=dark
-colorscheme desert
+" set background=dark
+" colorscheme desert
 
 " Enable mouse support
 set mouse=a
